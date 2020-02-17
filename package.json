@@ -1,0 +1,19 @@
+{
+  "name": "herokutestapp",
+  "version": "1.0.0",
+  "description": "Herokuにデプロイしてみるテスト",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://takahashihodaka:7a25dbc567e88d4d96850d9ffa4749ce1f35dd87@github.com/takahashihodaka/HerokuTestApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/takahashihodaka/HerokuTestApp/issues"
+  },
+  "homepage": "https://github.com/takahashihodaka/HerokuTestApp#readme"
+}
